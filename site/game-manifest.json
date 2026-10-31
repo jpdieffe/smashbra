@@ -1,0 +1,9 @@
+{
+  "game": "Super Smash Bros. (USA)",
+  "romFile": "Super Smash Bros. (USA).z64",
+  "romBytes": 16777216,
+  "romSha256": "15592e79d3c5295cef4371d4992f0bd25bec2102fc29644c93e682f7ea99ef3d",
+  "zipSha256": "be67c6f3af64db0b74be70cd6083d8bc29cf303fb9d6a1e4009f6dcb8add336c",
+  "engine": "EmulatorJS 4.2.3 / parallel_n64",
+  "multiplayer": "Host emulation; WebRTC video/audio and controller port two"
+}
